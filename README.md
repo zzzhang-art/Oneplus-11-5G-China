@@ -1,6 +1,3 @@
-# Modified on: May 30th, 2025
-  修改日期：2025年5月30日
-
 # Bug submission/bug提交
 
 Bug feedback is accepted in both Chinese and English. If you use other languages, please translate them yourself before sending feedback to project contributors.
