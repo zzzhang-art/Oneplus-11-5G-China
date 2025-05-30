@@ -1,6 +1,7 @@
 # Bug submission/bug提交
 
 Bug feedback is accepted in both Chinese and English. If you use other languages, please translate them yourself before sending feedback to project contributors.
+
   bug反馈接受中文与英文，如您非如上所述两种语言的使用者请自行翻译后再尝试反馈。
 
 
