@@ -7,9 +7,11 @@ Bug feedback is accepted in both Chinese and English. If you use other languages
 # 仓库说明/Warehouse Description
 
 This warehouse provides ColorOS15 instances, including the latest GMS services and features that OnePlus 11 should not have.
+
   该仓库提供ColorOS15的实例，包含一加11不该有的最新功能和最新的GMS服务。
 
-Please note: The ColorOS15 instance updates upstream with Oneplus.
+Please note: The ColorOS15 instance updates upstream with Oneplus. 
+
   ColorOS15实例跟随一加的上游更新。
 
 # 更新日志/Update log
@@ -18,16 +20,21 @@ Please note: The ColorOS15 instance updates upstream with Oneplus.
 Modified version number: 15.0.0.820 (CN01)
 
 ① Remove third-party applications/useless system functions from the system.
+
   去除系统预装应用与无用功能。
 
 ② Provide Sukisu Ultra and lz4kd support for the kernel.
+
   为内核提供Sukisu-Ultra与lz4kd支持。
 
 ③ Completing the ColorOS15 feature, sourced from Coolapk Tian Umbrella Eucalyptus.
+
   补全ColorOS15特性，来源于酷安天伞桉。
 
 ⑤ Provide long-term maintenance support for ColorOS15 on OnePlus 11 until OnePlus abandons updates and switches to AOSP support.
+
   为一加11的ColorOS15提供长期维护支持，直到一加放弃更新后转为AOSP开发。
 
 ④ OppO and Oneplus, all rights reserved.
+
   oppo&Oneplus保留一切权益
