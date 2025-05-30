@@ -34,7 +34,7 @@ Modified version number: 15.0.0.820 (CN01)
 
 ⑤ Provide long-term maintenance support for ColorOS15 on OnePlus 11 until OnePlus abandons updates and switches to AOSP support.
 
-  为一加11的ColorOS15提供长期维护支持，直到一加放弃更新后转为AOSP开发。
+  为一加11的ColorOS15提供长期实例支持，直到一加放弃更新后转为AOSP开发。
 
 ④ OppO and Oneplus, all rights reserved.
 
